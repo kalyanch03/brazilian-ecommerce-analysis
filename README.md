@@ -9,6 +9,10 @@ performance.
 
 The analysis uses a public dataset, not proprietary company data.
 
+## Power BI Dashboard
+
+![Olist E-Commerce Dashboard](screenshots/olist_dashboard.png)
+
 ## Tools
 
 -   MySQL 8 -- data exploration, joins, aggregations, subqueries, CTEs
